@@ -1,0 +1,13 @@
+{
+  "name": "{{.BotName}}",
+  "version": "0.1.0",
+  "main": "src/main.ts",
+  "dependencies": {
+    "botway.js": "^0.0.5",
+    "node-telegram-bot-api": "^0.59.0",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}
