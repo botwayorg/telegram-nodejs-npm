@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "src/main.ts",
   "dependencies": {
-    "botway.js": "^0.0.6",
+    "botway.js": "^0.0.7",
     "node-telegram-bot-api": "^0.59.0",
     "request": "^2.88.2"
   },
