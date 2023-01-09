@@ -4,7 +4,7 @@
   "main": "src/main.ts",
   "dependencies": {
     "botway.js": "^0.0.7",
-    "node-telegram-bot-api": "^0.60.0",
+    "node-telegram-bot-api": "^0.61.0",
     "request": "^2.88.2"
   },
   "scripts": {
